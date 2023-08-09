@@ -19,4 +19,4 @@ Use the project as a starting point to learn about HTML, CSS, and JavaScript int
 This project serves as an excellent learning resource for beginners looking to understand the basics of web development and interactivity.
 It's a fun and educational way to explore creating dynamic elements on a webpage.
 
-## :Screenshot_Analog_Clock:
+## Screenshot_Analog_Clock:
