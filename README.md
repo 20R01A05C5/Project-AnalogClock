@@ -21,4 +21,4 @@ It's a fun and educational way to explore creating dynamic elements on a webpage
 
 ## Screenshot_Analog_Clock:
 
-![Screenshot 2023-08-09 202010](https://github.com/20R01A05C5/Project-AnalogClock/assets/123346414/cb760745-00a5-48c9-956b-22b4e1d0bdc6)
+![Screenshot 2023-08-12 141230](https://github.com/20R01A05C5/Project-AnalogClock/assets/123346414/73f4f89f-69ad-4e47-95cf-3327ef2ea05f)
